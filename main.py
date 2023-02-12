@@ -110,7 +110,7 @@ def main(page: ft.Page):
             icon_color=ft.colors.YELLOW_ACCENT,
             tooltip="View Code",
             on_click=lambda e: page.launch_url(
-                "https://github.com/ndonkoHenri/Flet-Samples/tree/master/Short%20Jokes")
+                "https://github.com/Jeet-programmer/Short-Jokes-Generation")
         )
     )
 
